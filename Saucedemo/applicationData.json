@@ -1,0 +1,6 @@
+{
+  "browserName": "chrome",
+  "applicationUrl": "https://www.saucedemo.com/",
+  "username": "standard_user",
+  "password": "secret_sauce"
+}
